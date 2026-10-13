@@ -2,7 +2,7 @@
 const stages=['Thrown','Trimming / Drying','Bisque Fired','Glazed','Glaze Fired','Finished'];
 
 
-const forms=['Bowl','Vase','Jar','Mug','Pitcher','Plate','Cylinder','Teapot','Other'];
+const forms=['Bowl','Vase','Jar','Mug','Pitcher','Plate','Cylinder','Teapot','Cup','Other'];
 
 
 const fields=['name','form','stage','thrown','weight','clay','trimmed','bisque','bisqueCone','fired','glazeCone','glaze','notes'];
